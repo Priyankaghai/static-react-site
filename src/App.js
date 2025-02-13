@@ -1,22 +1,16 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
+  // This will log when the component renders
+  console.log('App component is rendering!');
+  
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Welcome to My Static Website!</h1>
+        <p>This is a simple static site built with React.</p>
+        <p>Enjoy exploring!</p>
       </header>
     </div>
   );
