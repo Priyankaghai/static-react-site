@@ -23,7 +23,7 @@ function App() {
 
       {/* Header Section */}
       <header className="App-header">
-        <h1>Welcome to Fonada</h1>
+        <h1>Welcome to Pingpro</h1>
         <p>Your go-to platform for all things related to business communication and solutions.</p>
       </header>
 
@@ -41,7 +41,7 @@ function App() {
       <section className="about-section" id="about">
         <h2>About Us</h2>
         <p>
-          Fonada is a leading provider of innovative solutions in digital marketing, branding, and web development.
+          Pingpro is a leading provider of innovative solutions in digital marketing, branding, and web development.
           Our mission is to help businesses reach their full potential through tailored digital strategies.
         </p>
         <p>
@@ -54,7 +54,7 @@ function App() {
         <h2>Help</h2>
         <p>If you need assistance, you can visit our help section for more information or get in touch with our team.</p>
         <p>
-          Visit our <a href="https://www.fonada.com/help">Help Center</a> for common FAQs and troubleshooting tips.
+          Visit our <a href="https://www.Pingpro.com/help">Help Center</a> for common FAQs and troubleshooting tips.
         </p>
       </section>
 
@@ -62,22 +62,22 @@ function App() {
       <section className="contact-section" id="contact">
         <h2>Contact Us</h2>
         <p>Have a question or want to get started with us? Reach out to us:</p>
-        <p>Email: <a href="mailto:contact@fonada.com">contact@fonada.com</a></p>
+        <p>Email: <a href="mailto:contact@Pingpro.com">contact@Pingpro.com</a></p>
         <p>Phone: +1 (555) 123-4567</p>
       </section>
 
       {/* Careers Section */}
       <section className="careers-section" id="careers">
         <h2>Careers</h2>
-        <p>At Fonada, we are always looking for talented individuals to join our team.</p>
+        <p>At Pingpro, we are always looking for talented individuals to join our team.</p>
         <p>
-          Explore current job openings at Fonada and be a part of our growing company. Visit our <a href="https://www.fonada.com/careers" target="_blank" rel="noopener noreferrer">Careers Page</a> for more details.
+          Explore current job openings at Pingpro and be a part of our growing company. Visit our <a href="https://www.Pingpro.com/careers" target="_blank" rel="noopener noreferrer">Careers Page</a> for more details.
         </p>
       </section>
 
       {/* Footer */}
       <footer className="App-footer">
-        <p>&copy; 2025 Fonada. All rights reserved.</p>
+        <p>&copy; 2025 Pingpro. All rights reserved.</p>
       </footer>
     </div>
   );
